@@ -14,7 +14,7 @@ npm install ng-connection --save
 ### Inject `NgConnection`
 
 You need to Inject the `NgConnection` service in the component of your app where you want to use it.
-After that Subscribe to `connectivity()` method to get the status of the internet connectivity.
+After that Subscribe to `connectivity()` method to get the current status of the internet connection.
 
 ```js
 import { Component } from '@angular/core';
@@ -39,9 +39,10 @@ export class AppComponent {
 ```
 
 ### Configuration
-1. It can be configured to report the current connectivity status by providing the boolean value to the connectivity() method.
+It can be configured to report the current network status also by providing the boolean value to the `connectivity()` method.
 
-```html
+```js
+.connectivity(true | false)
 true: (Default) Report the current status.
 false: Start reporting once the status change.
 
