@@ -13,7 +13,7 @@ export class NgConnection {
 
     private statusEmitter: any = new EventEmitter();
 
-    private isConnected: boolean = true;
+    private isConnected: boolean = navigator.onLine;
 
     constructor() {
         this.trackingConnection();
