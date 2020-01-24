@@ -1,15 +1,21 @@
 {
   "name": "ng-connection",
-  "description": "An angular application to check if you are connected to Internet or not!",
+  "description": "In Angular application, monitor you are connected to Internet or not!",
   "author": "Nitish Kumar",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/nnitish/ng-connection"
   },
   "keywords": [
-    "Angular", "Angular2", "Angular4", "Angular6",
-    "ng", "ng-connection", "network", "network connectivity", "internet", "internet connection", "connection"
+    "Angular",
+    "ng",
+    "ng-connection",
+    "network",
+    "network connectivity",
+    "internet",
+    "internet connection",
+    "connection"
   ],
   "scripts": {
     "ng": "ng",
