@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/nnitish/ng-connection/compare/v2.0.12...v2.1.0) (2020-02-11)
+
+
+### Features
+
+* **scope:** tres ([f398447](https://github.com/nnitish/ng-connection/commit/f39844724f634a7d5c2ede2dd04c3e1d44bf6aa8))
+
 ### [2.0.12](https://github.com/nnitish/ng-connection/compare/v2.0.11...v2.0.12) (2020-02-11)
 
 ### [2.0.11](https://github.com/nnitish/ng-connection/compare/v2.0.10...v2.0.11) (2020-02-11)
