@@ -2,7 +2,7 @@
   "name": "ng-connection",
   "description": "In Angular application, monitor you are connected to Internet or not!",
   "author": "Nitish Kumar",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/nnitish/ng-connection"
@@ -24,7 +24,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "packagr": "ng-packagr -p ng-package.json"
+    "packagr": "ng-packagr -p ng-package.json",
+    "release": "standard-version"
   },
   "private": true,
   "dependencies": {
