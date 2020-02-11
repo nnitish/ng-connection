@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/nnitish/ng-connection/compare/v2.1.4...v2.2.0) (2020-02-11)
+
+
+### Features
+
+* **versioning:** Automated the versioning of package ([4bdd0e4](https://github.com/nnitish/ng-connection/commit/4bdd0e408a6860b6f476edeb478ca8cb0a30004e))
+
 ### [2.1.4](https://github.com/nnitish/ng-connection/compare/v2.1.3...v2.1.4) (2020-02-11)
 
 ### [2.1.3](https://github.com/nnitish/ng-connection/compare/v2.1.2...v2.1.3) (2020-02-11)
