@@ -60,7 +60,7 @@
     "ng-packagr": "^5.7.1",
     "protractor": "~5.4.0",
     "semantic-release": "^17.0.2",
-    "standard-version": "^7.1.0",
+    "standard-version": "^8.0.1",
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
